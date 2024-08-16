@@ -1,0 +1,16 @@
+nav{
+    display: flex;
+    justifyContent: center;
+    gap: 1rem;
+    padding: 1rem;
+    color: white;
+}
+
+.link{
+    padding:0.3rem;
+}
+
+.link.active{
+    background: blue;
+    color: white;
+}
